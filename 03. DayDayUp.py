@@ -27,3 +27,4 @@ df = 0.01
 while dayup(df) < 37.78:
     df += 0.001
 print("每天努力多少：{:.3f}".format(df))
+
