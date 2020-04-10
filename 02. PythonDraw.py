@@ -9,7 +9,7 @@ Introduction:
 
 # import turtle         # 无库名冲突，但代码冗余
 # from turtle import *   # 易产生库名冲突
-import turtle as t # 库别名
+import turtle as t  # 库别名
 
 # 海龟角度坐标
 '''
